@@ -1,4 +1,4 @@
-# SIMPLELEARN-LESSON1
+# SIMPLELEARN-COURSE-LESSON1
 Here in this Folder
 Write a program in Java to perform implicit and explicit type casting
 Write a program in Java to verify the working of access modifiers
